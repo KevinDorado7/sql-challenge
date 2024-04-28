@@ -28,4 +28,7 @@ After setting up the tables I complete the following queries (queries.sql):
 To complete this activity, I have used resources such as Office Hours and the assistance of ChatGPT to debug and optimize the code's functionality.
 Additionally, I mostly used ChatGPT with the funcionality of REFERENCES function.
 
+
+QuickDBD. (n.d.). Quick Database Diagrams from https://www.quickdatabasediagrams.com/
 OpenAI. (n.d.). ChatGPT by OpenAI from https://openai.com/chatgpt
+
