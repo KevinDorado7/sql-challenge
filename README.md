@@ -7,7 +7,7 @@ a research project about people whom the company employed during the 1980s and 1
 period are six CSV files. For this project, I'll design the tables to hold the data from the CSV files, import the CSV files into a
 SQL database, and then answer questions about the data. That is, I'll perform data modeling, data engineering, and data analysis, respectively.
 
-To complete the challenge, I first created different tables (Table_schemata.sql) and then I imported the csv files into each respective table
+To complete the challenge I made use of QuickDBD to make a ERD diagram, after that, I created different tables (Table_schemata.sql) and then I imported the csv files into each respective table
 - dept_emp
 - dept_manager
 - salaries
