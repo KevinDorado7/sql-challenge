@@ -29,6 +29,6 @@ To complete this activity, I have used resources such as Office Hours and the as
 Additionally, I mostly used ChatGPT with the funcionality of REFERENCES function.
 
 
-QuickDBD. (n.d.). Quick Database Diagrams from https://www.quickdatabasediagrams.com/
-OpenAI. (n.d.). ChatGPT by OpenAI from https://openai.com/chatgpt
+- QuickDBD. (n.d.). Quick Database Diagrams from https://www.quickdatabasediagrams.com/
+- OpenAI. (n.d.). ChatGPT by OpenAI from https://openai.com/chatgpt
 
